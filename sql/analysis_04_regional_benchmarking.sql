@@ -19,6 +19,3 @@ JOIN dim_measure_group mg ON mg.measure_group_id = f.measure_group_id
 CROSS JOIN national_avg ns
 GROUP BY h.state, ns.national_avg
 ORDER BY state_avg DESC;
-
-
-
