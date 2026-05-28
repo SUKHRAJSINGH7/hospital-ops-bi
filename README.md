@@ -5,9 +5,6 @@
 ## Live Dashboard
 [US Hospital Operations Performance Dashboard](https://public.tableau.com/app/profile/sukhraj.singh6336/viz/USHospitalOperationsPerformanceDashboard/HospitalOperationsOverview)
 
-## Live Dashboard
-[US Hospital Operations Performance Dashboard](https://public.tableau.com/app/profile/sukhraj.singh6336/viz/USHospitalOperationsPerformanceDashboard/HospitalOperationsOverview)
-
 ## Analytical Workbook
 [Hospital Operations Excel Analytics](https://docs.google.com/spreadsheets/d/1OdOiXWPe1A1nCjDN_eN8eFQMckPi9MXG1w9vLY2dOsw/edit?usp=sharing)
 
